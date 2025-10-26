@@ -18,7 +18,7 @@ import plantimg1 from '../assets/decoration/plantimg1.png'
 import plantimg2 from '../assets/decoration/plantimg2.png'
 import plantimg3 from '../assets/decoration/plantimg3.png'
 import plantimg4 from '../assets/decoration/plantimg4.png'
-//data new
+//data new-
 
 export default function Landing() {
     return (
