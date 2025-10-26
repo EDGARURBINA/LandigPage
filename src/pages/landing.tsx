@@ -14,10 +14,10 @@ import pln from '../assets/icons/pln.png';
 import ml from '../assets/icons/ml.png';
 import llm from '../assets/icons/llm.png';
 
-import plantimg1 from '../assets/decoration/plantImg1.png'
-import plantimg2 from '../assets/decoration/plantImg2.png'
-import plantimg3 from '../assets/decoration/plantImg3.png'
-import plantimg4 from '../assets/decoration/plantImg4.png'
+import plantimg1 from '../assets/decoration/plantimg1.png'
+import plantimg2 from '../assets/decoration/plantimg2.png'
+import plantimg3 from '../assets/decoration/plantimg3.png'
+import plantimg4 from '../assets/decoration/plantimg4.png'
 
 export default function Landing() {
     return (
