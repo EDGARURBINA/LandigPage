@@ -25,7 +25,7 @@
 .imgpart {
     height: calc(100% / 3);
     width: 100%;
-    background-image: url('../../assets/decoration/plantImg1.png');
+    background-image: url('../../assets/decoration/plantimg1.png');
     background-size: cover;
     background-repeat: no-repeat;
 }

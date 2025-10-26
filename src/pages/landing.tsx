@@ -57,7 +57,7 @@ export default function Landing() {
                 />
                 <Separator />
                 <div className='linkButton'>
-                    <a href='https://docs.google.com/forms/d/e/1FAIpQLScx0uNh0vLqjdkb7HTuxijmu7htbMvc8HfTy5XyUbXjIj4esA/viewform?usp=dialog' className='title'>¿Te importaria responder algunas preguntas?</a>
+                    <a href='https://docs.google.com/forms/d/e/1FAIpQLScx0uNh0vLqjdkb7HTuxijmu7htbMvc8HfTy5XyUbXjIj4esA/viewform?usp=dialog' className='title'>¿Agendarse para lanzamiento?</a>
                 </div>
             </div>
             <Footer />
